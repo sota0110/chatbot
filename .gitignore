@@ -1,0 +1,3 @@
+*__pycache__/
+config/password.py
+chatapp/config/openai_key.py
