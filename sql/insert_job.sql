@@ -1,0 +1,10 @@
+INSERT INTO chatapp_article VALUES (1, 'LP作成', 'LPの作成をします。', 'sumii', '2023-11-29 19:57:00');
+INSERT INTO chatapp_article VALUES (2, 'HP作成', 'HPの作成をします。', 'sumii', '2023-11-29 19:58:00');
+INSERT INTO chatapp_article VALUES (3, '株価予測AI作成', '株価予測AIの作成をします。', 'sumii', '2023-11-29 19:59:00');
+INSERT INTO chatapp_article VALUES (4, '競馬予測AI作成', '競馬予測AIの作成をします。', 'sumii', '2023-11-29 20:00:00');
+INSERT INTO chatapp_article VALUES (5, 'ゲーム作成', 'ゲームの作成をします。', 'sumii', '2023-11-29 20:01:00');
+INSERT INTO chatapp_article VALUES (6, 'アプリ作成', 'アプリの作成をします。', 'sumii', '2023-11-29 20:02:00');
+INSERT INTO chatapp_article VALUES (7, 'ブログ作成', 'ブログの作成をします。', 'sumii', '2023-11-29 20:03:00');
+INSERT INTO chatapp_article VALUES (8, 'SNS作成', 'SNSの作成をします。', 'sumii', '2023-11-29 20:04:00');
+INSERT INTO chatapp_article VALUES (9, 'ECサイト作成', 'ECサイトの作成をします。', 'sumii', '2023-11-29 20:05:00');
+INSERT INTO chatapp_article VALUES (10, '動画編集', '動画の編集をします。', 'sumii', '2023-11-29 20:06:00');
